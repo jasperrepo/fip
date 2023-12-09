@@ -357,6 +357,8 @@ input, textarea {
 #contact-hero-text {
    margin-top: 15px;
    margin-bottom: 25px;
+   object-position: url(../images/quality\ logo.png) right;
+
 }
 
 #contact-hero-address p {
