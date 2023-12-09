@@ -423,6 +423,16 @@ input, textarea {
    padding-bottom: 80px;
 }
 
+#footer-hero2 {
+   background-image: url(../images/footer_spa.jpg);
+	background-repeat: no-repeat;
+   color: #424242;
+   font-size: 12px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   margin-top: 40px;
+   padding-bottom: 80px; 
+}
+
 #footer-hero h3 {
    margin-top: 30px;
    font-size: 28px;
