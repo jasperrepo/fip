@@ -114,11 +114,7 @@ input, textarea {
 
 /* 3. ---Main Hero Image--- */
 
-#hero3 {
-   background: url(../images/IG_FB_logo.jpg) no-repeat;
-   height: 306px;
-   width: 412px;
-}
+
 
 
 #hero {
@@ -129,6 +125,12 @@ input, textarea {
 
 #hero2 {
    background: url(../images/spa_2.jpg) no-repeat;
+   height: 306px;
+   width: 412px;
+}
+
+#hero3 {
+   background: url(../images/2_spa.jpg) no-repeat;
    height: 306px;
    width: 412px;
 }
@@ -155,6 +157,8 @@ input, textarea {
 #book-now-hero {
    height: 67px;
 }
+
+
 
 #hero-heading-box {
    align-self: end;
@@ -246,9 +250,12 @@ input, textarea {
   height: 195px;
 }
 
+
 #why-choose-us-heading-box {
    align-self: end;
 }
+
+
 
 .why-choose-us-image {
    float: left;
@@ -303,6 +310,8 @@ input, textarea {
    background: url(../images/about-us-hero.jpg) no-repeat;
    height: 195px;
 }
+
+
 
 #about-hero-heading-box {
    align-self: end;
