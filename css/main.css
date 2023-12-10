@@ -113,7 +113,14 @@ input, textarea {
 
 #hero {
    background: url(../images/hero-main.jpg) no-repeat;
-   height: 200px;
+   height: 306px;
+   width: 412px;
+}
+
+#hero2 {
+   background: url(../images/spa_2.jpg) no-repeat;
+   height: 306px;
+   width: 412px;
 }
 
 .book-now {
