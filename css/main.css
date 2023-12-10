@@ -156,6 +156,24 @@ input, textarea {
    height: 306px;
    width: 412px;
 }
+#hero8 {
+   background: url(../images/2.jpg) no-repeat;
+   height: 306px;
+   width: 412px;
+}
+
+#hero9 {
+   background: url(../images/wine.jpg) no-repeat;
+   height: 306px;
+   width: 412px;
+}
+#hero10 {
+   background: url(../images/10.jpg) no-repeat;
+   height: 306px;
+   width: 412px;
+}
+
+
 .book-now {
    background-color: #9a2018;
    color: #fff;
@@ -492,6 +510,17 @@ input, textarea {
    object-fit: cover;
 }
 
+#footer-hero3 {
+   background-image: url(../images/footer_dining.jpg);
+	background-repeat: no-repeat;
+   color: #ffffff;
+   font-size: 12px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   margin-top: 40px;
+   padding-bottom: 80px; 
+   object-fit: cover;
+}
+
 #footer-hero h3 {
    margin-top: 30px;
    font-size: 28px;
@@ -503,6 +532,12 @@ input, textarea {
    font-size: 28px;
    margin-bottom: 16px;
 }
+#footer-hero h3 {
+   margin-top: 30px;
+   font-size: 28px;
+   margin-bottom: 16px;
+}
+
 #footer-privacy .line-seperator {
    margin-top: 0px;
 }
