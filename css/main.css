@@ -151,6 +151,11 @@ input, textarea {
    height: 306px;
    width: 412px;
 }
+#hero7 {
+   background: url(../images/7.jpg) no-repeat;
+   height: 306px;
+   width: 412px;
+}
 .book-now {
    background-color: #9a2018;
    color: #fff;
@@ -484,6 +489,7 @@ input, textarea {
    font-family: Georgia, 'Times New Roman', Times, serif;
    margin-top: 40px;
    padding-bottom: 80px; 
+   object-fit: cover;
 }
 
 #footer-hero h3 {
@@ -492,6 +498,11 @@ input, textarea {
    margin-bottom: 16px;
 }
 
+#footer-hero2 h3 {
+   margin-top: 30px;
+   font-size: 28px;
+   margin-bottom: 16px;
+}
 #footer-privacy .line-seperator {
    margin-top: 0px;
 }
@@ -503,5 +514,6 @@ input, textarea {
 #footer-contact-info p {
    margin-bottom: 20px;
    line-height: 18px;
-   font-size: 11px;
+   font-size: 12px;
 }
+
