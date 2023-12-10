@@ -371,7 +371,7 @@ input, textarea {
 }
 
 #faq-con {
-   background-color: #f4f4f4;
+   background-color: #ffffff;
    padding-top: 35px;
    padding-bottom: 30px;
 }
@@ -497,6 +497,15 @@ input, textarea {
    font-size: 12px;
    margin-top: 40px;
    padding-bottom: 80px;
+}
+
+#wine {
+   background-image: url(../images/wine.jpg);
+	background-repeat: no-repeat;
+   margin-top: 40px;
+   padding-bottom: 80px;
+   object-fit: cover;
+   
 }
 
 #footer-hero2 {
