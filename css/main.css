@@ -140,6 +140,17 @@ input, textarea {
    height: 306px;
    width: 412px;
 }
+
+#hero5 {
+   background: url(../images/4_spa.jpg) no-repeat;
+   height: 306px;
+   width: 412px;
+}
+#hero6 {
+   background: url(../images/6.jpg) no-repeat;
+   height: 306px;
+   width: 412px;
+}
 .book-now {
    background-color: #9a2018;
    color: #fff;
