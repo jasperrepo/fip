@@ -135,6 +135,11 @@ input, textarea {
    width: 412px;
 }
 
+#hero4 {
+   background: url(../images/massage.jpg) no-repeat;
+   height: 306px;
+   width: 412px;
+}
 .book-now {
    background-color: #9a2018;
    color: #fff;
