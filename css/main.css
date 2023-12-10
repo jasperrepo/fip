@@ -30,7 +30,10 @@ body {
    color: #626262;
    font-family: 'Sanchez', 'Times New Roman', serif;
 }
-
+body-2 {
+   color: #626262;
+   font-family: Georgia, 'Times New Roman', Times, serif
+}
 a {
    text-decoration: none;
    transition: all .5s ease-in-out;
@@ -111,6 +114,13 @@ input, textarea {
 
 /* 3. ---Main Hero Image--- */
 
+#hero3 {
+   background: url(../images/IG_FB_logo.jpg) no-repeat;
+   height: 306px;
+   width: 412px;
+}
+
+
 #hero {
    background: url(../images/hero-main.jpg) no-repeat;
    height: 306px;
@@ -135,6 +145,8 @@ input, textarea {
    transition:all 0.3s ease;
    cursor: pointer;
 }
+
+
 
 .book-now:hover {
    background-color: rgb(196, 28, 28);
@@ -169,6 +181,13 @@ input, textarea {
    font-size: 14px;
    line-height: 22px;
    margin-bottom: 20px;
+}
+
+#hero-summary2 p {
+   font-size: 14px;
+   line-height: 22px;
+   margin-bottom: 20px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 /* 4. ---Main Hero Image Contact--- */
